@@ -1,0 +1,11 @@
+MITS Inventory
+
+Resource	Qty
+
+Clickers 	300
+
+Speakers	5
+
+Laptops		4
+
+Projectors	25
